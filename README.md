@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/104058395?s=96&v=4" alt="Jonay Galindo Logo"/>
+</div>
+
 # 👋 ¡Hola, soy Jonay!
 
 Soy un desarrollador web con experiencia y pasión por la creación de soluciones digitales que sean efectivas. Mi enfoque se centra en tecnologías como PHP, ReactJS, y otras herramientas relevantes en el desarrollo web. He trabajado también en diversos proyectos que han requerido conocimientos sobre el manejo de bases de datos para lograr funcionalidades dinámicas y eficientes. 💻<br/>
