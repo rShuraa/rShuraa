@@ -24,9 +24,6 @@ Siempre estoy emocionado por los desafíos que presenta el desarrollo web, y est
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rshuraa&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## 🌐 Conéctate conmigo
 
